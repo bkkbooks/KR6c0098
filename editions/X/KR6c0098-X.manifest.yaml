@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0098_000-X.yaml, hash: 'sha256:e6c8cb61eeefbb97485cd54ba9066deaeef8a7d972f73d5af271c0f463841a03'}
+  - {seq: 0, filename: KR6c0098_000-X.yaml, hash: 'sha256:183cc0a7f5fc9304cb5124f00431859a4f41829fec17ca1ad8a0566fa490905b'}
   - {seq: 1, filename: KR6c0098_001-X.yaml, hash: 'sha256:de8afaa390f64ce5a1ecd9c3d14b7bd3ba43f1ccfd9ae00ffd818c1cb6d85492'}
   - {seq: 2, filename: KR6c0098_002-X.yaml, hash: 'sha256:84e840620c1b8f68f1c8f96c37bb2468f4baa8d9ce2787a1f1f9ce620065651d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0098_000-X.markers.yaml, hash: 'sha256:73006479a6bd4fb0a0700567d18638602d0276e85709e5cc758d281dd4bb11e8'}
+  - {seq: 0, role: markers, filename: assets/KR6c0098_000-X.markers.yaml, hash: 'sha256:4e72f71871ac30d81ac7183321af271e184a45f053615f6e056ff5841fbc70bf'}
   - {seq: 1, role: markers, filename: assets/KR6c0098_001-X.markers.yaml, hash: 'sha256:47d89318ca5d498d1b52aa0a5bb127de89f18d9aefcfc6c951c4227cbdd0b501'}
   - {seq: 2, role: markers, filename: assets/KR6c0098_002-X.markers.yaml, hash: 'sha256:8c604580ec8aff94f4cd222442aae5a59dc1030cd442f4f40e47aa44a04e9172'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 510-A
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-2
     span:
-    - front
+    - body
     - 618
     - 618
   label: No. 510-B
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-3
     span:
-    - front
+    - body
     - 1280
     - 1280
   label: No. 510-C
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-4
     span:
-    - front
+    - body
     - 1842
     - 1842
   label: No. 510-D 緒言
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-5
     span:
-    - front
+    - body
     - 4333
     - 4333
   label: 誦經簡要
@@ -427,4 +427,4 @@ table_of_contents:
   label: 應化非真分三十二
   type: mulu
   level: 1
-hash: sha256:610b7d8a02a0383bf2575a3dffb0e8bd8781f39a787f1d2832bbc672f91b3fdb
+hash: sha256:2458a65dd6bd52effd2a0e6d5754019d6323f102896f220a8a8042341fbc2df6

@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0098_000.yaml, hash: 'sha256:139bf20cc0e50a7a5809f763984710ba81275602f72b9e830eaff79f1d438a17'}
+  - {seq: 0, filename: KR6c0098_000.yaml, hash: 'sha256:454858cbde8226acdc31526b4fe51d078d02a89b6c863f536f23581f35b7ac50'}
   - {seq: 1, filename: KR6c0098_001.yaml, hash: 'sha256:fe6572d997ba82163602aa136ee4444b0774faeeef476a3615bb2208bc215d7e'}
   - {seq: 2, filename: KR6c0098_002.yaml, hash: 'sha256:6e3a0e1ffda82caa36d37ddfbfd94e47b3b69ca353aea3bb11fa04c02d817016'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0098_000.markers.yaml, hash: 'sha256:ac82d615ef1135d911e2c1b4c331a201fb3f1f0e0a744c5f4c9c7256a58c83e0'}
+  - {seq: 0, role: markers, filename: assets/KR6c0098_000.markers.yaml, hash: 'sha256:fc557901271cfb61796c3ad64e943a5e7d5096d5434bef1f454babe598e6bea9'}
   - {seq: 1, role: markers, filename: assets/KR6c0098_001.markers.yaml, hash: 'sha256:de3475b1b837c5d2a5d58b6d374ada2f03ec823b63d001645cee71ba50ef380a'}
   - {seq: 2, role: markers, filename: assets/KR6c0098_002.markers.yaml, hash: 'sha256:f0c9d0c9e623f20e85d9682eb5ebd21fbdba0c487df7b07167be2423eba76648'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 510-A
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-2
     span:
-    - front
+    - body
     - 618
     - 618
   label: No. 510-B
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-3
     span:
-    - front
+    - body
     - 1280
     - 1280
   label: No. 510-C
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-4
     span:
-    - front
+    - body
     - 1842
     - 1842
   label: No. 510-D 緒言
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0098_X_000-mulu-5
     span:
-    - front
+    - body
     - 4333
     - 4333
   label: 誦經簡要
@@ -429,7 +429,7 @@ table_of_contents:
   label: 應化非真分三十二
   type: mulu
   level: 1
-hash: sha256:cd0e94e9285a183b6d732aa09419ca0a342b93144a1c3eaaa4e4f02feb4f4966
+hash: sha256:c8fa02a749adbcb60089d24bd459b9559e5842a3ce9432e91b81f94e51dc4715
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
